@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ArdaAgacdelen
 - 👀 I’m interested in Artificial Intelligence field
-- 🌱 I’m currently studying 4th term of AI Engineering in Hacettepe University
+- 🌱 I’m currently studying 5th term of AI Engineering in Hacettepe University
 - 📍 Ankara/Turkey
